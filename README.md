@@ -57,3 +57,6 @@ The target variable is:
 
 Visualizations show the alignment between actual and predicted prices.
 
+![image](https://github.com/user-attachments/assets/a3948986-1ae5-444b-80a0-1cf49da82165)
+
+
